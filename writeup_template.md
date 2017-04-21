@@ -169,3 +169,4 @@ For the second image ...
 ####1. Discuss the visual output of your trained network's feature maps. What characteristics did the neural network use to make classifications?
 
 
+
